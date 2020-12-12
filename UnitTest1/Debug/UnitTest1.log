@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+D:\Patiuk\AP\lab_2\labs11\lab11.3\lab11.3.cpp(142,14): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+     Creating library D:\Patiuk\AP\lab_2\labs11\lab11.3\Debug\UnitTest1.lib and object D:\Patiuk\AP\lab_2\labs11\lab11.3\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\Patiuk\AP\lab_2\labs11\lab11.3\Debug\UnitTest1.dll
